@@ -3,4 +3,6 @@ git init
  git commit -m "mensage, do commit"
  git remote add origin https://github.com/crisostomomagaoa/f ---> adicionar na conta da nuvem
 
- git push -u origim master --> transfere o material para a conta 
+ git push -u origim master --> transfere o material para a conta
+
+ git init -->> para o git reconhecer o directorio, e o git cria um ficheiro oculto ./git 
