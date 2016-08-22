@@ -1,0 +1,6 @@
+git init
+ git add .  ---> adiciona algo no projecto
+ git commit -m "mensage, do commit"
+ git remote add origin https://github.com/crisostomomagaoa/f ---> adicionar na conta da nuvem
+
+ git push -u origim master --> transfere o material para a conta 
